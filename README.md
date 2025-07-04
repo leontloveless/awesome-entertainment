@@ -6,43 +6,34 @@
 ## 🎬 Movies & Series
 - 🎥 [CorsFlix](https://corsflix.us.kg/) - Watch movies and series online.
 - 🎥 [345movies](https://www.345movies.com/) - A vast collection of movies and TV shows.
-- 🎥 [Prmovies](https://prmovies.taxi) - Free movie streaming with a wide selection.
+- 🎥 [Prmovies](https://prmovies.yoga) - Free movie streaming with a wide selection.
 - 🎥 [Movies2Watch](https://movies2watch.is) - Watch the latest movies and series.
-- 🎥 [FMovie.gg](https://fmovie.gg) - All your movie and series needs in one place.
-- 🎥 [M4UHD](https://ww2.m4uhd.tv) - High-quality movie streaming.
-- 🎥 [MultiMovies](https://multimovies.life) - Watch movies and series online for free.
-- 🎥 [fmovies](https://fmovies.llc) - Free movie streaming with a user-friendly interface.
+- 🎥 [Cinemaos](https://cinemaos.live) - All your movie, series & anime needs in one place.
+- 🎥 [M4UHD](https://m4uhd.page) - High-quality movie streaming.
+- 🎥 [MultiMovies](https://multimovies.agency) - Watch movies and series online for free.
+- 🎥 [SpenFlix](https://watch.spencerdevs.xyz) - Free movie streaming with a user-friendly interface.
 - 🎥 [Sflix](https://sflix.to/) - Stream movies and TV shows without ads.
 - 🎥 [AlienFlix](https://alienflix.net) - Watch movies and series online for free.
-- 🎥 [Privatehd](https://privatehd.to) - High-definition movie streaming.
-- 🎥 [PopcornMovies](https://popcornmovies.to) - Stream movies and TV shows with ease.
-- 🎥 [IOSMirror](https://iosmirror.cc) - Watch movies and series online.
-- 🎥 [Downloadhub](https://www.downloadhub.si) - Download and stream movies and series.
+- 🎥 [IOSMirror](https://netfree2.cc/mobile/) - Watch movies and series online.
 - 🎥 [Vidbox](https://vidbox.to) - Stream movies and series in high quality.
-- 🎥 [Foumovies](https://foumovies.pro/) - Free movie streaming with a variety of genres.
 - 🎥 [1tamilmv](https://www.1tamilmv.gold) - Tamil movies and series.
-- 🎥 [UwatchFree](https://uwatchfree.homes) - Free movie and series streaming.
 - 🎥 [WatchToday](https://watchtoday.stream/) - Watch the latest movies and series.
-- 🎥 [9xmovies](https://9xmoviese.sbs) - A wide selection of movies and series.
-- 🎥 [Filmex](https://filmex.to) - Stream movies and series with a modern interface.
+- 🎥 [Lookmovie2](https://www.lookmovie2.to/) - A wide selection of movies and series.
+- 🎥 [Watchug](https://watchug.to/) - Stream movies and series with a modern interface.
 - 🎥 [Dramanice](https://ww3.dramanice.video/) - Watch Korean dramas and series.
-- 🎥 [Kisskh](https://kisskh.co) - Stream movies and series with a clean layout.
-- 🎥 [Vumoo](https://vumoo.mx/) - Free movie and series streaming.
-- 🎥 [Vidbinge](https://www.vidbinge.com) - Watch movies and series online.
+- 🎥 [Kisskh](https://kisskh.ovh) - Stream movies and series with a clean layout.
+- 🎥 [Hydraflix](https://www.hydraflix.vip/home/) - Free movie and series streaming.
+- 🎥 [moviedb](https://www.moviedb.wiki/) - Watch movies and series online.
 - 🎥 [Levidia](https://www.levidia.ch/) - Stream movies and series with a modern design.
-- 🎥 [Binged](https://binged.in/) - Watch the latest movies and series.
-- 🎥 [Showflix](https://showflix.xyz/) - Free movie and series streaming.
+- 🎥 [Watchtv](https://www.watchtv.click/) - Watch the latest movies and series in Netflix like UI.
 - 🎥 [Tvids](https://www.tvids.net/) - Stream movies and series with a user-friendly interface.
-- 🎥 [AsianFlix](https://www.asianflix.one) - Watch Asian dramas and movies.
 - 🎥 [Sereal](https://www.sereal.com) - Stream movies and series with a clean layout.
-- 🎥 [MyAsianTv](https://myasiantv.ac) - Watch Asian dramas and movies.
-- 🎥 [DramaFull](https://dramafull.net) - Stream Korean dramas and series.
-- 🎥 [GoPlay](https://goplay.pw) - Free movie and series streaming.
-- 🎥 [Cinevez](https://www.cinevez.mov/) - Stream movies and series with a modern interface.
+- 🎥 [DramaFull](https://dramafull.co/) - Stream Korean dramas and series.
+- 🎥 [GoPlay](https://goplay.su/) - Free movie and series streaming.
+- 🎥 [Cinevez](https://www.cinevez.foo/) - Stream movies and series with a modern interface.
 
 ## 📖 Light Novel
 - 📚 [Fictionzone](https://fictionzone.net) - A vast collection of light novels.
-- 📚 [NovelsEmperor](https://novelsemperor.net) - Read light novels and web novels.
 - 📚 [MTLNovel](https://www.mtlnovels.com) - A wide selection of light novels.
 - 📚 [LNMTL](https://lnmtl.com) - Translate and read light novels.
 - 📚 [FANMTL](https://www.fanmtl.com) - Read and translate light novels.
