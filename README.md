@@ -43,7 +43,7 @@
 - 📚 [RoyalRoad](https://www.royalroad.com) - A community for light novel readers.
 - 📚 [Ranobes](https://ranobes.top) - Read and translate light novels.
 - 📚 [Ffxs8](https://www.ffxs8.com) - Read light novels and web novels.
-- 📚 [Feiszw](https://m.feibzw.com) - Read light novels and web novels.
+- 📚 [Feiszw](https://www.feisuzw.com/) - Read light novels and web novels.
 - 📚 [4ksw](http://www.4ksw.com/) - Read light novels and web novels.
 - 📚 [Wangshuge](http://wap.wangshuge.net) - Read light novels and web novels.
 - 📚 [txt520](https://www.txt520.com/) - Read light novels and web novels.
